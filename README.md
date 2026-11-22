@@ -4,15 +4,15 @@
 
 # Hi there! I'm Chris 👋
 
-![retro_gif](https://tenor.com/es-CO/view/infinite-loop-super-mario-super-mario-bros-infinity-coins-gif-4571068702268961345)
+![retro_gif](https://media1.tenor.com/m/P2-yxCKlskEAAAAd/infinite-loop-super-mario.gif)
 
-I am a **Software Development student** at CUC university based in Colombia , passionate about building clean, functional applications and continuously improving my problem-solving skills.
+I am a **Software Development student** at CUC university based in Barranquilla, Colombia, passionate about building clean, functional applications and continuously improving my problem-solving skills.
 
 ---
 
 ## 🛠️ What I'm Learning & Using
 
-* **Languages & Web:** [e.g., HTML, CSS, JavaScript, Python]
+* **Languages & Web:** Python, HTML, CSS, JavaScript
 * **Tools:** Git, GitHub, VS Code
 
 ---
