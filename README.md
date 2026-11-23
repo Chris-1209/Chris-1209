@@ -8,15 +8,7 @@ I am a **Software Development student** at CUC university based in Barranquilla,
 
 ## 🛠️ What I'm Learning & Using
 
-<p>
-  <img src="https://githubusercontent.com" width="40" alt="Python" />
-  <img src="https://githubusercontent.com" width="40" alt="HTML5" />
-  <img src="https://githubusercontent.com" width="40" alt="CSS3" />
-  <img src="https://githubusercontent.com" width="40" alt="JavaScript" />
-  <img src="https://githubusercontent.com" width="40" alt="Git" />
-  <img src="https://githubusercontent.com" width="40" alt="GitHub" />
-  <img src="https://githubusercontent.com" width="40" alt="VS Code" />
-</p>
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
