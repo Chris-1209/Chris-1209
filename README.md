@@ -8,20 +8,20 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 
 ## 🛠️ What I'm Learning & Using
 
-* 🐍 **Python**
-* 🌐 **HTML5 & CSS3**
-* ⚡ **JavaScript**
-* 🔧 **Git & GitHub**
-* 💻 **VS Code**
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **[Edutreble](https://github.com)** | A gamified music learning platform developed as a high school final project, designed to make music theory and practice interactive to all users. | ✅ Completed |
-| **[To Do List](https://github.com)** | A task management web application built to practice CRUD operations, state handling, and clean UI structure. | ✅ Completed |
+* **[Edutreble](https://github.com):** A gamified music learning platform developed as a high school final project, designed to make music theory and practice interactive to all users.
+* **[To Do List](https://github.com):** A task management web application built to practice CRUD operations, state handling, and clean UI structure.
 
 ---
 
@@ -49,53 +49,53 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 ---
 
 <details>
-  <summary>🇪🇸 <b>Leer en Español / Read in Spanish</b></summary>
-  <br>
+<summary>🇪🇸 <b>Leer en Español / Read in Spanish</b></summary>
+<br>
 
-  # ¡Hola! Soy Chris 👋
+# ¡Hola! Soy Chris 👋
 
-  Soy **estudiante de Desarrollo de Software** en la **Universidad de la Costa (CUC)** en Barranquilla, Colombia 🇨🇴, apasionado por construir aplicaciones limpias y funcionales, y por mejorar continuamente mis habilidades para resolver problemas.
+Soy **estudiante de Desarrollo de Software** en la **Universidad de la Costa (CUC)** en Barranquilla, Colombia 🇨🇴, apasionado por construir aplicaciones limpias y funcionales, y por mejorar continuamente mis habilidades para resolver problemas.
 
-  ---
+---
 
-  ## 🛠️ Lo que estoy aprendiendo y usando
+## 🛠️ Lo que estoy aprendiendo y usando
 
-  * 🐍 **Python**
-  * 🌐 **HTML5 y CSS3**
-  * ⚡ **JavaScript**
-  * 🔧 **Git y GitHub**
-  * 💻 **VS Code**
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
 
-  ---
+---
 
-  ## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-  | Proyecto | Descripción | Estado |
-  | :--- | :--- | :--- |
-  | **[Edutreble](https://github.com)** | Plataforma de aprendizaje musical gamificado desarrollada como proyecto de grado en el colegio, diseñada para hacer interactiva la práctica y teoría musical para todos los usuarios. | ✅ Completado |
-  | **[To Do List](https://github.com)** | Aplicación web de gestión de tareas creada para practicar operaciones CRUD, manejo de estado y estructuración limpia de interfaces. | ✅ Completado |
+* **[Edutreble](https://github.com):** Plataforma de aprendizaje musical gamificado desarrollada como proyecto de grado en el colegio, diseñada para hacer interactiva la práctica y teoría musical para todos los usuarios.
+* **[To Do List](https://github.com):** Aplicación web de gestión de tareas creada para practicar operaciones CRUD, manejo de estado y estructuración limpia de interfaces.
 
-  ---
+---
 
-  ## 🌱 Actualmente estoy...
+## 🌱 Actualmente estoy...
 
-  * 📚 Estudiando **Desarrollo de Software**, y luego estudiaré **Ingeniería de Sistemas**.
-  * 💻 Construyendo **FinanSmart**, un proyecto SaaS.
-  * 🤝 Abierto a **prácticas profesionales, vacantes junior o proyectos colaborativos**.
+* 📚 Estudiando **Desarrollo de Software**, y luego estudiaré **Ingeniería de Sistemas**.
+* 💻 Construyendo **FinanSmart**, un proyecto SaaS.
+* 🤝 Abierto a **prácticas profesionales, vacantes junior o proyectos colaborativos**.
 
-  ---
+---
 
-  ## 📫 Contacto
+## 📫 Contacto
 
-  * **Correo Personal:** christianbuitron@outlook.com
-  * **Correo Institucional:** cbuitronm@cuc.edu.co
+* **Correo Personal:** christianbuitron@outlook.com
+* **Correo Institucional:** cbuitronm@cuc.edu.co
 
-  ---
+---
 
-  ## ⚡ Datos Curiosos
+## ⚡ Datos Curiosos
 
-  * Me encantan los videojuegos retro 🎮.
-  * Actualmente estoy aprendiendo nuevos idiomas, como portugués 🇵🇹.
-  * Me gustaría viajar por todo el mundo 🌎.
+* Me encantan los videojuegos retro 🎮.
+* Actualmente estoy aprendiendo nuevos idiomas, como portugués 🇵🇹.
+* Me gustaría viajar por todo el mundo 🌎.
 
 </details>
