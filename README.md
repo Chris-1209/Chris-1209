@@ -1,14 +1,6 @@
-<div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+# Hi there! I'm Chris 👋
 
-  <br>
-
-  <img src="https://tenor.com" width="220" alt="Super Mario Retro GIF"/>
-</div>
-
-<br>
+![retro_gif](https://tenor.com)
 
 I am a **Software Development student** at **Universidad de la Costa (CUC)** based in Barranquilla, Colombia 🇨🇴, passionate about building clean, functional applications and continuously improving my problem-solving skills.
 
@@ -16,15 +8,13 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 
 ## 🛠️ What I'm Learning & Using
 
-<p>
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="GitHub"/>
-  <img src="https://shields.io" alt="VS Code"/>
-</p>
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
 
 ---
 
@@ -47,14 +37,8 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 
 ## 📫 Get in Touch
 
-<p>
-  <a href="mailto:christianbuitron@outlook.com">
-    <img src="https://shields.io" alt="Personal Email"/>
-  </a>
-  <a href="mailto:cbuitronm@cuc.edu.co">
-    <img src="https://shields.io" alt="Institutional Email"/>
-  </a>
-</p>
+[![Personal Email](https://shields.io)](mailto:christianbuitron@outlook.com)
+[![CUC Email](https://shields.io)](mailto:cbuitronm@cuc.edu.co)
 
 ---
 
@@ -78,15 +62,13 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 
   ## 🛠️ Lo que estoy aprendiendo y usando
 
-  <p>
-    <img src="https://shields.io" alt="Python"/>
-    <img src="https://shields.io" alt="HTML5"/>
-    <img src="https://shields.io" alt="CSS3"/>
-    <img src="https://shields.io" alt="JavaScript"/>
-    <img src="https://shields.io" alt="Git"/>
-    <img src="https://shields.io" alt="GitHub"/>
-    <img src="https://shields.io" alt="VS Code"/>
-  </p>
+  ![Python](https://shields.io)
+  ![HTML5](https://shields.io)
+  ![CSS3](https://shields.io)
+  ![JavaScript](https://shields.io)
+  ![Git](https://shields.io)
+  ![GitHub](https://shields.io)
+  ![VS Code](https://shields.io)
 
   ---
 
@@ -109,14 +91,8 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 
   ## 📫 Contacto
 
-  <p>
-    <a href="mailto:christianbuitron@outlook.com">
-      <img src="https://shields.io" alt="Correo Personal"/>
-    </a>
-    <a href="mailto:cbuitronm@cuc.edu.co">
-      <img src="https://shields.io" alt="Correo Institucional"/>
-    </a>
-  </p>
+  [![Correo Personal](https://shields.io)](mailto:christianbuitron@outlook.com)
+  [![Correo CUC](https://shields.io)](mailto:cbuitronm@cuc.edu.co)
 
   ---
 
