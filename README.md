@@ -2,19 +2,21 @@
 
 ![retro_gif](https://tenor.com)
 
-I am a **Software Development student** at **Universidad de la Costa (CUC)** based in Barranquilla, Colombia 🇨🇴, passionate about building clean, functional applications and continuously improving my problem-solving skills.
+I am a **Software Development student** at CUC university based in Barranquilla, Colombia, passionate about building clean, functional applications and continuously improving my problem-solving skills.
 
 ---
 
 ## 🛠️ What I'm Learning & Using
 
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" width="40" alt="Python" />
+  <img src="https://githubusercontent.com" width="40" alt="HTML5" />
+  <img src="https://githubusercontent.com" width="40" alt="CSS3" />
+  <img src="https://githubusercontent.com" width="40" alt="JavaScript" />
+  <img src="https://githubusercontent.com" width="40" alt="Git" />
+  <img src="https://githubusercontent.com" width="40" alt="GitHub" />
+  <img src="https://githubusercontent.com" width="40" alt="VS Code" />
+</p>
 
 ---
 
@@ -28,10 +30,8 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 ## 🌱 Currently...
 
 * 📚 Studying **Software Development**, then I'll study **Systems Engineering**.
-* 💻 Building **FinanSmart**, a SaaS project.
+* 💻 Building **FinanSmart**, a SaS project.
 * 🤝 Open to **internships, junior roles, or collaborative projects**.
-
----
 
 ## 📫 Get in Touch
 
@@ -40,62 +40,8 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** bas
 
 ---
 
-## ⚡ Fun Facts
+## ⚡Fun Facts
 
 * I really love retro games 🎮.
-* I'm currently learning new languages like Portuguese 🇵🇹.
+* I'm currently learning new languages like portuguese 🇵🇹.
 * I'd like to travel all around the world 🌎.
-
----
-
-<details>
-<summary>🇪🇸 <b>Leer en Español / Read in Spanish</b></summary>
-<br>
-
-# ¡Hola! Soy Chris 👋
-
-Soy **estudiante de Desarrollo de Software** en la **Universidad de la Costa (CUC)** en Barranquilla, Colombia 🇨🇴, apasionado por construir aplicaciones limpias y funcionales, y por mejorar continuamente mis habilidades para resolver problemas.
-
----
-
-## 🛠️ Lo que estoy aprendiendo y usando
-
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-
----
-
-## 🚀 Proyectos Destacados
-
-* **[Edutreble](https://github.com):** Plataforma de aprendizaje musical gamificado desarrollada como proyecto de grado en el colegio, diseñada para hacer interactiva la práctica y teoría musical para todos los usuarios.
-* **[To Do List](https://github.com):** Aplicación web de gestión de tareas creada para practicar operaciones CRUD, manejo de estado y estructuración limpia de interfaces.
-
----
-
-## 🌱 Actualmente estoy...
-
-* 📚 Estudiando **Desarrollo de Software**, y luego estudiaré **Ingeniería de Sistemas**.
-* 💻 Construyendo **FinanSmart**, un proyecto SaaS.
-* 🤝 Abierto a **prácticas profesionales, vacantes junior o proyectos colaborativos**.
-
----
-
-## 📫 Contacto
-
-* **Correo Personal:** christianbuitron@outlook.com
-* **Correo Institucional:** cbuitronm@cuc.edu.co
-
----
-
-## ⚡ Datos Curiosos
-
-* Me encantan los videojuegos retro 🎮.
-* Actualmente estoy aprendiendo nuevos idiomas, como portugués 🇵🇹.
-* Me gustaría viajar por todo el mundo 🌎.
-
-</details>
