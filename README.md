@@ -2,13 +2,17 @@
 
 ![retro_gif](https://tenor.com)
 
-I am a **Software Development student** at **Universidad de la Costa (CUC)** in Barranquilla, Colombia 🇨🇴.
+I am a **Software Development student** at **Universidad de la Costa (CUC)** based in Barranquilla, Colombia 🇨🇴, passionate about building clean, functional applications and continuously improving my problem-solving skills.
 
 ---
 
 ## 🛠️ What I'm Learning & Using
 
-![Python](https://githubusercontent.com) ![HTML5](https://githubusercontent.com) ![CSS3](https://githubusercontent.com) ![JavaScript](https://githubusercontent.com) ![Git](https://githubusercontent.com) ![GitHub](https://githubusercontent.com) ![VS Code](https://githubusercontent.com)
+* 🐍 **Python**
+* 🌐 **HTML5 & CSS3**
+* ⚡ **JavaScript**
+* 🔧 **Git & GitHub**
+* 💻 **VS Code**
 
 ---
 
@@ -16,23 +20,31 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** in 
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Edutreble](https://github.com)** | Gamified music learning platform. | ✅ Completed |
-| **[To Do List](https://github.com)** | Task management web application for CRUD and UI practice. | ✅ Completed |
+| **[Edutreble](https://github.com)** | A gamified music learning platform developed as a high school final project, designed to make music theory and practice interactive to all users. | ✅ Completed |
+| **[To Do List](https://github.com)** | A task management web application built to practice CRUD operations, state handling, and clean UI structure. | ✅ Completed |
 
 ---
 
 ## 🌱 Currently...
 
-* 📚 Studying **Software Development** (moving toward **Systems Engineering**).
-* 💻 Building **FinanSmart** (SaaS).
-* 🤝 Open to **internships, junior roles, and collaborations**.
+* 📚 Studying **Software Development**, then I'll study **Systems Engineering**.
+* 💻 Building **FinanSmart**, a SaaS project.
+* 🤝 Open to **internships, junior roles, or collaborative projects**.
 
 ---
 
-## 📫 Get in Touch & Fun Facts
+## 📫 Get in Touch
 
-* **Emails:** christianbuitron@outlook.com / cbuitronm@cuc.edu.co
-* **Highlights:** Loves retro games 🎮, learning Portuguese 🇵🇹, and traveling 🌎.
+* **Personal Email:** christianbuitron@outlook.com
+* **Institutional Email:** cbuitronm@cuc.edu.co
+
+---
+
+## ⚡ Fun Facts
+
+* I really love retro games 🎮.
+* I'm currently learning new languages like Portuguese 🇵🇹.
+* I'd like to travel all around the world 🌎.
 
 ---
 
@@ -42,8 +54,48 @@ I am a **Software Development student** at **Universidad de la Costa (CUC)** in 
 
   # ¡Hola! Soy Chris 👋
 
-  Soy **estudiante de Desarrollo de Software** en la **Universidad de la Costa (CUC)** en Barranquilla, Colombia 🇨🇴.
+  Soy **estudiante de Desarrollo de Software** en la **Universidad de la Costa (CUC)** en Barranquilla, Colombia 🇨🇴, apasionado por construir aplicaciones limpias y funcionales, y por mejorar continuamente mis habilidades para resolver problemas.
 
-  *(Nota: El contenido completo en español e inglés con todas las secciones detalladas se encuentra disponible en la estructura Markdown anterior).*
+  ---
+
+  ## 🛠️ Lo que estoy aprendiendo y usando
+
+  * 🐍 **Python**
+  * 🌐 **HTML5 y CSS3**
+  * ⚡ **JavaScript**
+  * 🔧 **Git y GitHub**
+  * 💻 **VS Code**
+
+  ---
+
+  ## 🚀 Proyectos Destacados
+
+  | Proyecto | Descripción | Estado |
+  | :--- | :--- | :--- |
+  | **[Edutreble](https://github.com)** | Plataforma de aprendizaje musical gamificado desarrollada como proyecto de grado en el colegio, diseñada para hacer interactiva la práctica y teoría musical para todos los usuarios. | ✅ Completado |
+  | **[To Do List](https://github.com)** | Aplicación web de gestión de tareas creada para practicar operaciones CRUD, manejo de estado y estructuración limpia de interfaces. | ✅ Completado |
+
+  ---
+
+  ## 🌱 Actualmente estoy...
+
+  * 📚 Estudiando **Desarrollo de Software**, y luego estudiaré **Ingeniería de Sistemas**.
+  * 💻 Construyendo **FinanSmart**, un proyecto SaaS.
+  * 🤝 Abierto a **prácticas profesionales, vacantes junior o proyectos colaborativos**.
+
+  ---
+
+  ## 📫 Contacto
+
+  * **Correo Personal:** christianbuitron@outlook.com
+  * **Correo Institucional:** cbuitronm@cuc.edu.co
+
+  ---
+
+  ## ⚡ Datos Curiosos
+
+  * Me encantan los videojuegos retro 🎮.
+  * Actualmente estoy aprendiendo nuevos idiomas, como portugués 🇵🇹.
+  * Me gustaría viajar por todo el mundo 🌎.
 
 </details>
