@@ -65,11 +65,15 @@
 # 🕹️ JUGADOR 1: CHRIS 👋
 **Estudiante de Desarrollo de Software @ Universidad de la Costa (CUC) · Barranquilla, Colombia 🇨🇴**
 
-</div>
-
 <br>
 
-Soy **estudiante de Desarrollo de Software** en la Universidad de la Costa (CUC) en Barranquilla, Colombia, apasionado por construir aplicaciones limpias y funcionales, y por mejorar continuamente mis habilidades para resolver problemas.
+<img src="https://media1.tenor.com/m/P2-yxCKlskEAAAAC/infinite-loop-super-mario.gif" width="240" alt="Super Mario Retro"/>
+
+<br><br>
+
+*Apasionado por construir aplicaciones limpias y funcionales, y por mejorar continuamente mis habilidades para resolver problemas.*
+
+</div>
 
 ---
 
