@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🕹️ PLAYER 1: CHRIS 👋
-**Software Development Student @ Universidad de la Costa (CUC) · Barranquilla, Colombia 🇨🇴**
+**Software Development Student (Semester - II) @ Universidad de la Costa (CUC) · Barranquilla, Colombia 🇨🇴**
 
 <br>
 
@@ -63,7 +63,7 @@
 <div align="center">
 
 # 🕹️ JUGADOR 1: CHRIS 👋
-**Estudiante de Desarrollo de Software @ Universidad de la Costa (CUC) · Barranquilla, Colombia 🇨🇴**
+**Estudiante de Desarrollo de Software (II - Semestre) @ Universidad de la Costa (CUC) · Barranquilla, Colombia 🇨🇴**
 
 <br>
 
